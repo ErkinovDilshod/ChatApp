@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363684205229",
+    "project_id": "agrochatapp-cba0c",
+    "storage_bucket": "agrochatapp-cba0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363684205229:android:e63e8946be293073b9ac24",
+        "android_client_info": {
+          "package_name": "uz.myprog.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363684205229-36pbeu1ipsm8uk4ec6c83lfsggeuqciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSQJMzbrfaga6SCrZLGgvxd9kKvRMWSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363684205229-36pbeu1ipsm8uk4ec6c83lfsggeuqciq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

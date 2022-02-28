@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainFragment">
 
-    <TextView
+ <!--   <TextView
         app:layout_constraintTop_toTopOf="parent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,8 +17,12 @@
         android:textStyle="bold"
         android:textColor="@color/black"
         android:layout_marginTop="12dp"
-        />
+        />-->
 
+    <include
+        layout="@layout/bar_layout"
+        android:id="@+id/toolbar"
+        />
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:id="@+id/btn_chat"

@@ -22,6 +22,7 @@ class Adapter(private val data: ArrayList<TextMessage>) : RecyclerView.Adapter<A
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.itemText.text = data[position].textSender
         holder.itemTime.text = data[position].textTime
+        //it'is true
     }
 
     override fun getItemCount(): Int {
